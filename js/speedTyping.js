@@ -1,10 +1,10 @@
 /**
 * @package     speedTyping 
-* @author      Awran5 <github.com/awran5>
+* @author      900z <github.com/900z>
 * @version     1.0.0
-* @license     under MIT <https://github.com/awran5/speedTyping/blob/master/LICENSE>
-* @copyright   © 2018 Awran5. All rights reserved.
-* @see         <github.com/speedTyping>
+* @license     under MIT <https://github.com/900z/f/blob/master/LICENSE>
+* @copyright   © 2020 900z. All rights reserved.
+* @see         <github.com/f>
 * 
 */
 
